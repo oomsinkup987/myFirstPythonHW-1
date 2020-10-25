@@ -1,0 +1,9 @@
+$ python wrap.py she.txt 30
+I'm sure that the shells are s
+eashore shells.
+So if she sells seashells on t
+he seashore,
+The shells that she sells are
+seashells I'm sure.
+She sells seashells on the sea
+shore;
